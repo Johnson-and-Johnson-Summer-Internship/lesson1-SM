@@ -1,0 +1,9 @@
+
+public class Lesson {
+
+	public static void main(String args[]) {
+
+		System.out.print("Gain more hands on experience in Chemical Engineering");
+	}
+	
+}
